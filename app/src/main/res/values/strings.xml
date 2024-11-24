@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">16_5_AndroidNavigation</string>
+    <string name="toolbarTitle">Светофор</string>
+    <string name="exit">Выход</string>
+    <string name="greenTV_text">%1$s - движение разрешено!</string>
+    <string name="redTV_text">%1$s - стой!</string>
+    <string name="yellowTV_text">%1$s - внимание!</string>
+    <string name="some_text">Пример текста</string>
+    <string name="redButton_text">Красный</string>
+    <string name="yellowButton_text">Желтый</string>
+    <string name="greenButton_text">Зеленый</string>
+
+
+</resources>
